@@ -344,7 +344,7 @@ const links = [
   },
   {
     name: "Justdial",
-    url: "https://www.justdial.com/Satara/Vithal-Kamat-Restaurant-Khambatki-Ghat/9999P2162-2162-181204180834-A3F4_BZDET",
+    url: "https://www.justdial.com/Satara/Hotel-Vithal-Kamats-Original-Family-Restaurant-Opposite-Yspm-Technical-Campus-Wadhe/9999P2162-2162-161117195323-U2W2_BZDET?isLogin=1",
     color: "#FFFFFF",
     icon: (
       <img
@@ -378,7 +378,7 @@ const links = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/hotel_vitthalkamat?igsh=MWR5dHFheGpnbzRmdg==",
+    url: "https://www.instagram.com/vithalkamatssatara?utm_source=qr&igsh=bmlkZDNmZmxrNjhj",
     color: "#E1306C",
     icon: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="h-8 w-8">
