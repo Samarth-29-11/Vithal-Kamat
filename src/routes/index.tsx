@@ -11,11 +11,11 @@ export const Route = createFileRoute("/")({
     meta: [
       {
         property: "og:image",
-        content: `https://id-preview--57091b80-4970-4fc9-8503-f9817972598c.lovable.app${logoAsset.url}`,
+        content: "/vithal-kamat-circle.jpg",
       },
       {
         name: "twitter:image",
-        content: `https://id-preview--57091b80-4970-4fc9-8503-f9817972598c.lovable.app${logoAsset.url}`,
+        content: "/vithal-kamat-circle.jpg",
       },
     ],
   }),
